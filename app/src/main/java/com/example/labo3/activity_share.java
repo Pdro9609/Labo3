@@ -22,3 +22,4 @@ public class activity_share extends AppCompatActivity {
         }
     }
 }
+
